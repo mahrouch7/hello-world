@@ -1,2 +1,3 @@
 # hello-world
 First repository, just to know how GitHub works
+I'm trying to find a way in developpement industry. Hope it works so fine...
